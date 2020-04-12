@@ -6,5 +6,7 @@ pasta
 
 checken fry
 
+beans
+pizza
 
 thank you 
